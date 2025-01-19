@@ -5,7 +5,7 @@
 ## 👋 Hi, there!  
 Hi, I'm pyohm\
 I will graduate from Korean Aerospace University in February 2026.
-- Major : AI, LLM    
+- Major : AI, RAG
 	
 Nice to meet you, and have a nice day B-)      
 	  
