@@ -56,7 +56,7 @@ Nice to meet you, and have a nice day B-)
 |2021| Game | Sunflower Game | 개인 | [링크](https://github.com/pyohm/Sunflower-game) |
 |2024| App | 스마트폰 중독 방지 및 디지털 웰빙을 위한 시간 관리 앱 개발 (Dopamine Killer) | 팀원 | [링크](https://github.com/kangyeon9525/ATM_Backend) |
 |2024| DB | 직원 정보 관리 프로젝트 | 팀원 | [링크](https://github.com/persi0815/JDBC_work) |
-|2024| MultiModal | Image, PDF 처리 Chatbot 프로젝트 | 팀원 | [링크](https://github.com/pyohm/TeamA_Chatbot) |
+|2024| AI | Multimodal 데이터 처리 Chatbot 프로젝트 | 팀원 | [링크](https://github.com/pyohm/TeamA_Chatbot) |
 |2024| AWS IoT | AWS 기반 실시간 쓰레기통 용량 모니터링 및 관리 (Thrash) | 팀원 | [링크](https://github.com/hwouu/trash-network-backend) |
 <!--
 <br>
